@@ -1,0 +1,7 @@
+machine_id,assembly_time,defect_rate,production_volume
+A3,37,0.025,110
+B3,33,0.018,115
+C2,48,0.045,85
+A4,31,0.016,130
+B4,29,0.012,125
+C3,46,0.042,95
